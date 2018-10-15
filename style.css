@@ -1,0 +1,56 @@
+.containers{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex: 1;
+    margin-top: 150px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    width: 200px;
+}
+.first-text{
+   color: black;
+   line-height: 0.3;
+   
+   
+   
+}
+.first-text-change{
+    color: #2f363b;
+    font-weight: 600;
+    line-height: 0.3;
+}
+.price-color{
+    color: #869097;
+}
+
+.card{
+    border-color: #869097;
+}
+.main2{
+    border: 1px solid #e98040; 
+    background-color: #fef8f3;
+
+}
+.bottom-color{
+    color: #1469c1;
+     
+}
+p{
+    color: #af9c92;
+    
+}
+.img-line{
+    line-height: 0.1;
+}
+.price-color2,.free-color{
+    color : #b53424;
+    font-weight: 450;
+}
+.bottom-text{
+    margin-top: 10px;
+    line-height: 0;
+}
